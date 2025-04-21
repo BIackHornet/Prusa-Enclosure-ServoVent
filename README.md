@@ -1,3 +1,5 @@
+*This is a work in progress and not currently functional*
+
 SUMMARY:
 I am trying to create an automated way of controlling the exhaust vent and fan on my Original Prusa Enclosure. PrusaSlicer has variables that will know what filament
 type is being used, that variable will be used in the start and end gcode. Based on the type of filament, the vent will be rotated by a servo and the fan turned on.
@@ -16,6 +18,8 @@ Prusa Basic Board connected to Pico GPIO with extension cable
 Buck Convertor stepping down voltage (24v to 5v) from Basic Board to Pico
 PrusaSlicer inserts Start and End G-code to control vent state (open or closed)
 Original Prusa MK4/S, MK3.9/S, or MK3.5/S running firmware 6.2.0-alpha1 or newer.
+
+![alt text](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/TOPOLOGY.jpg?raw=true)
 
 HARDWARE LIST:
 MG90S Micro Servo - https://www.amazon.com/dp/B09BV5D7MD
