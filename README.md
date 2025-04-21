@@ -1,10 +1,10 @@
-*This is a work in progress and not currently functional*
+#*This is a work in progress and not currently functional*
 
-Summary:
+## Summary:
 I am trying to create an automated way of controlling the exhaust vent and fan on my Original Prusa Enclosure. PrusaSlicer has variables that will know what filament
 type is being used, that variable will be used in the start and end gcode. Based on the type of filament, the vent will be rotated by a servo and the fan turned on.
 
-Related Articles:
+## Related Articles:
 https://forum.prusa3d.com/forum/user-and-hardware-mods/further-information-on-basic-board-and-psu-for-original-prusa-enclosure-for-filtration-unit-and-custom-led/
 https://forum.prusa3d.com/forum/project-oni-general-discussion-announcements-and-releases/basic-board-connectors/
 https://help.prusa3d.com/article/gpio-module_734695
@@ -12,7 +12,7 @@ https://forum.prusa3d.com/forum/english-forum-original-prusa-i3-mk4s-add-ons/gpi
 https://forum.prusa3d.com/forum/english-forum-original-prusa-i3-mk4s-add-ons/gpio-question/
 https://web.archive.org/web/20241101203306/https://help.prusa3d.com/article/gpio-module_734695
 
-Topology:
+## Topology:
 Raspberry Pi Pico running MicroPython
 Prusa Basic Board connected to Pico GPIO with extension cable
 Buck Convertor stepping down voltage (24v to 5v) from Basic Board to Pico
@@ -21,7 +21,7 @@ Original Prusa MK4/S, MK3.9/S, or MK3.5/S running firmware 6.2.0-alpha1 or newer
 
 ![alt text](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/TOPOLOGY.png?raw=true)
 
-Hardware List:
+## Hardware List:
 MG90S Micro Servo - https://www.amazon.com/dp/B09BV5D7MD
 Basic Board Extension Cable - https://www.digikey.com/en/products/detail/molex/0151350406/6830170
 Raspberry Pi Pico - https://www.amazon.com/Raspberry-Pi-Pico/dp/B09KVB8LVR
@@ -31,11 +31,11 @@ Servo Tester (Optional: Assist in calibrating servo for script) - https://www.am
 3.5mm TRRS Jack - https://www.amazon.com/dp/B07L3P93ZD
 2.5mm to 3.5mm TRRS Cable - https://www.amazon.com/dp/B0B9RF28W3
 
-3D Printed Parts:
+## 3D Printed Parts:
 Advanced Filtration System Adjustable Exhaust (v3) for the Original Prusa Enclosure - https://www.printables.com/model/964245-advanced-filtration-system-adjustable-exhaust-v3-f
 Larger Prusa GPIO "Hackerboard" Cover for Sticker - https://www.printables.com/model/1265425-larger-prusa-gpio-hackerboard-cover-for-sticker
 
-BASIC BOARD EXTENSION PORT PINOUT:
+### BASIC BOARD EXTENSION PORT PINOUT:
 1: GND
 2: 24 VDC
 3: GND (switched by FAN button)
@@ -46,7 +46,7 @@ Software:
 
 
 
-🔧 PrusaSlicer Start G-code:
+### 🔧 PrusaSlicer Start G-code:
 
 ; --- Setup GPIO modes ---
 M262 P0 B0 ; Pin 0: Exhaust
@@ -83,7 +83,7 @@ M264 P2 B0 ; Toggle OFF (release)
 
 
 
-🧹 PrusaSlicer End G-codes:
+### 🧹 PrusaSlicer End G-codes:
 
 ; --- Turn off vent outputs ---
 M264 P0 B0 ; Exhaust OFF
