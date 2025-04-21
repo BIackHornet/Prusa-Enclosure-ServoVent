@@ -22,7 +22,7 @@ type is being used, that variable will be used in the Start and End G-code. Base
 ![alt text](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/topology.png?raw=true)
 
 ## Hardware List:
-- MG90S Micro Servo - https://www.amazon.com/dp/B09BV5D7MD
+- MG90S Micro Servo (This model has metal gears) - https://www.amazon.com/dp/B09BV5D7MD
 - Basic Board Extension Cable - https://www.digikey.com/en/products/detail/molex/0151350406/6830170
 - Raspberry Pi Pico - https://www.amazon.com/Raspberry-Pi-Pico/dp/B09KVB8LVR
 - Prusa Basic Board - https://www.prusa3d.com/product/basic-board-and-psu-for-original-prusa-enclosure-for-filtration-unit-and-led/
