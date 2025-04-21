@@ -1,4 +1,5 @@
-# *This is a work in progress and not currently functional*
+> [!WARNING]
+> # *This is a work in progress and not currently functional*
 
 ## Summary:
 I am trying to create an automated way of controlling the exhaust vent and fan on my Original Prusa Enclosure. PrusaSlicer has variables that will know what filament
