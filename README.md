@@ -35,13 +35,13 @@ Servo Tester (Optional: Assist in calibrating servo for script) - https://www.am
 Advanced Filtration System Adjustable Exhaust (v3) for the Original Prusa Enclosure - https://www.printables.com/model/964245-advanced-filtration-system-adjustable-exhaust-v3-f
 Larger Prusa GPIO "Hackerboard" Cover for Sticker - https://www.printables.com/model/1265425-larger-prusa-gpio-hackerboard-cover-for-sticker
 
-### BASIC BOARD EXTENSION PORT PINOUT:
+## BASIC BOARD EXTENSION PORT PINOUT:
 1: GND
 2: 24 VDC
 3: GND (switched by FAN button)
 4: GND (switched by LED button)
 
-Software:
+## Software:
 [MicroPython code and G-Code from my GitHub](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/)
 
 
