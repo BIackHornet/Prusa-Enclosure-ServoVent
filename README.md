@@ -37,10 +37,10 @@ type is being used, that variable will be used in the start and end gcode. Based
 - Create servo hat and mount for hardware???
 
 ## BASIC BOARD EXTENSION PORT PINOUT:
-1: GND
-2: 24 VDC
-3: GND (switched by FAN button)
-4: GND (switched by LED button)
+1. GND
+2. 24 VDC
+3. GND (switched by FAN button)
+4. GND (switched by LED button)
 
 ## Software:
 [MicroPython code and G-Code from my GitHub](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent)
