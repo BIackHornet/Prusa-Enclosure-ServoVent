@@ -5,12 +5,12 @@ I am trying to create an automated way of controlling the exhaust vent and fan o
 type is being used, that variable will be used in the start and end gcode. Based on the type of filament, the vent will be rotated by a servo and the fan turned on.
 
 ## Related Articles:
-https://forum.prusa3d.com/forum/user-and-hardware-mods/further-information-on-basic-board-and-psu-for-original-prusa-enclosure-for-filtration-unit-and-custom-led/
-https://forum.prusa3d.com/forum/project-oni-general-discussion-announcements-and-releases/basic-board-connectors/
-https://help.prusa3d.com/article/gpio-module_734695
-https://forum.prusa3d.com/forum/english-forum-original-prusa-i3-mk4s-add-ons/gpio-how-to-article/
-https://forum.prusa3d.com/forum/english-forum-original-prusa-i3-mk4s-add-ons/gpio-question/
-https://web.archive.org/web/20241101203306/https://help.prusa3d.com/article/gpio-module_734695
+- https://forum.prusa3d.com/forum/user-and-hardware-mods/further-information-on-basic-board-and-psu-for-original-prusa-enclosure-for-filtration-unit-and-custom-led/
+- https://forum.prusa3d.com/forum/project-oni-general-discussion-announcements-and-releases/basic-board-connectors/
+- https://help.prusa3d.com/article/gpio-module_734695
+- https://forum.prusa3d.com/forum/english-forum-original-prusa-i3-mk4s-add-ons/gpio-how-to-article/
+- https://forum.prusa3d.com/forum/english-forum-original-prusa-i3-mk4s-add-ons/gpio-question/
+- https://web.archive.org/web/20241101203306/https://help.prusa3d.com/article/gpio-module_734695
 
 ## Topology:
 - Raspberry Pi Pico running MicroPython
