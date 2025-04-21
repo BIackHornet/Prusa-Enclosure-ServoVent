@@ -2,7 +2,7 @@
 
 ## Summary:
 I am trying to create an automated way of controlling the exhaust vent and fan on my Original Prusa Enclosure. PrusaSlicer has variables that will know what filament
-type is being used, that variable will be used in the start and end gcode. Based on the type of filament, the vent will be rotated by a servo and the fan turned on.
+type is being used, that variable will be used in the Start and End G-code. Based on the type of filament, the vent will be rotated by a servo and the fan turned on.
 
 ## Related Articles:
 - https://forum.prusa3d.com/forum/user-and-hardware-mods/further-information-on-basic-board-and-psu-for-original-prusa-enclosure-for-filtration-unit-and-custom-led/
@@ -32,9 +32,9 @@ type is being used, that variable will be used in the start and end gcode. Based
 - 2.5mm to 3.5mm TRRS Cable - https://www.amazon.com/dp/B0B9RF28W3
 
 ## 3D Printed Parts:
-- [Advanced Filtration System Adjustable Exhaust (v3) for the Original Prusa Enclosure](https://www.printables.com/model/964245-advanced-filtration-system-adjustable-exhaust-v3-f)
-- [Larger Prusa GPIO "Hackerboard" Cover for Sticker](https://www.printables.com/model/1265425-larger-prusa-gpio-hackerboard-cover-for-sticker)
-- Create servo hat and mount for hardware???
+- [Advanced Filtration System Adjustable Exhaust (v3) for the Original Prusa Enclosure by DaHouzKat](https://www.printables.com/model/964245-advanced-filtration-system-adjustable-exhaust-v3-f)
+- [Larger Prusa GPIO "Hackerboard" Cover for Sticker by Horbit](https://www.printables.com/model/1265425-larger-prusa-gpio-hackerboard-cover-for-sticker)
+- I need to create a model to house hardware above and hold the servo in position above exhaust selector
 
 ## Software:
 [MicroPython code and G-Code from my GitHub](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent)
