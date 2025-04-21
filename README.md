@@ -21,7 +21,7 @@ type is being used, that variable will be used in the Start and End G-code. Base
 - Original Prusa MK4/S, MK3.9/S, or MK3.5/S running firmware 6.2.0-alpha1 or newer.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/topology.png?raw=true">
+  <img src="https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/topology.png?raw=true">
 </p>
 
 ## Hardware List:
