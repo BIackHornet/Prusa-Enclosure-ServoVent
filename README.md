@@ -42,7 +42,7 @@ BASIC BOARD EXTENSION PORT PINOUT:
 4: GND (switched by LED button)
 
 Software:
-[MicroPython code and G-Code from my GitHub](https://www.genome.gov/](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent)
+[MicroPython code and G-Code from my GitHub](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/)
 
 
 
