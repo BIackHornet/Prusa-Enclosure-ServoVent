@@ -20,7 +20,9 @@ type is being used, that variable will be used in the Start and End G-code. Base
 - PrusaSlicer inserts Start and End G-code to control vent state (open or closed)
 - Original Prusa MK4/S, MK3.9/S, or MK3.5/S running firmware 6.2.0-alpha1 or newer.
 
-![alt text](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/topology.png?raw=true)
+<p align="center">
+  ![alt text](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/topology.png?raw=true)
+</p>
 
 ## Hardware List:
 - MG90S Micro Servo (This model has metal gears) - https://www.amazon.com/dp/B09BV5D7MD
