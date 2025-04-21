@@ -22,14 +22,14 @@ Original Prusa MK4/S, MK3.9/S, or MK3.5/S running firmware 6.2.0-alpha1 or newer
 ![alt text](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/TOPOLOGY.png?raw=true)
 
 ## Hardware List:
-MG90S Micro Servo - https://www.amazon.com/dp/B09BV5D7MD
-Basic Board Extension Cable - https://www.digikey.com/en/products/detail/molex/0151350406/6830170
-Raspberry Pi Pico - https://www.amazon.com/Raspberry-Pi-Pico/dp/B09KVB8LVR
-Prusa Basic Board - https://www.prusa3d.com/product/basic-board-and-psu-for-original-prusa-enclosure-for-filtration-unit-and-led/
-Buck Converter - https://www.amazon.com/dp/B0DBVYP91F
-Servo Tester (Optional: Assist in calibrating servo for script) - https://www.amazon.com/dp/B07FQNZHG4le
-3.5mm TRRS Jack - https://www.amazon.com/dp/B07L3P93ZD
-2.5mm to 3.5mm TRRS Cable - https://www.amazon.com/dp/B0B9RF28W3
+- MG90S Micro Servo - https://www.amazon.com/dp/B09BV5D7MD
+- Basic Board Extension Cable - https://www.digikey.com/en/products/detail/molex/0151350406/6830170
+- Raspberry Pi Pico - https://www.amazon.com/Raspberry-Pi-Pico/dp/B09KVB8LVR
+- Prusa Basic Board - https://www.prusa3d.com/product/basic-board-and-psu-for-original-prusa-enclosure-for-filtration-unit-and-led/
+- Buck Converter - https://www.amazon.com/dp/B0DBVYP91F
+- Servo Tester (Optional: Assist in calibrating servo for script) - https://www.amazon.com/dp/B07FQNZHG4le
+- 3.5mm TRRS Jack - https://www.amazon.com/dp/B07L3P93ZD
+- 2.5mm to 3.5mm TRRS Cable - https://www.amazon.com/dp/B0B9RF28W3
 
 ## 3D Printed Parts:
 Advanced Filtration System Adjustable Exhaust (v3) for the Original Prusa Enclosure - https://www.printables.com/model/964245-advanced-filtration-system-adjustable-exhaust-v3-f
