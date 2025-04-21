@@ -32,8 +32,9 @@ Original Prusa MK4/S, MK3.9/S, or MK3.5/S running firmware 6.2.0-alpha1 or newer
 - 2.5mm to 3.5mm TRRS Cable - https://www.amazon.com/dp/B0B9RF28W3
 
 ## 3D Printed Parts:
-Advanced Filtration System Adjustable Exhaust (v3) for the Original Prusa Enclosure - https://www.printables.com/model/964245-advanced-filtration-system-adjustable-exhaust-v3-f
-Larger Prusa GPIO "Hackerboard" Cover for Sticker - https://www.printables.com/model/1265425-larger-prusa-gpio-hackerboard-cover-for-sticker
+- [Advanced Filtration System Adjustable Exhaust (v3) for the Original Prusa Enclosure](https://www.printables.com/model/964245-advanced-filtration-system-adjustable-exhaust-v3-f)
+- [Larger Prusa GPIO "Hackerboard" Cover for Sticker](https://www.printables.com/model/1265425-larger-prusa-gpio-hackerboard-cover-for-sticker)
+- Create servo hat and mount for hardware???
 
 ## BASIC BOARD EXTENSION PORT PINOUT:
 1: GND
@@ -42,7 +43,7 @@ Larger Prusa GPIO "Hackerboard" Cover for Sticker - https://www.printables.com/m
 4: GND (switched by LED button)
 
 ## Software:
-[MicroPython code and G-Code from my GitHub](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/)
+[MicroPython code and G-Code from my GitHub](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent)
 
 
 
