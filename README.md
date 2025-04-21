@@ -19,7 +19,7 @@ Buck Convertor stepping down voltage (24v to 5v) from Basic Board to Pico
 PrusaSlicer inserts Start and End G-code to control vent state (open or closed)
 Original Prusa MK4/S, MK3.9/S, or MK3.5/S running firmware 6.2.0-alpha1 or newer.
 
-![alt text](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/TOPOLOGY.jpg?raw=true)
+![alt text](https://github.com/BIackHornet/Prusa-Enclosure-ServoVent/blob/main/images/TOPOLOGY.png?raw=true)
 
 HARDWARE LIST:
 MG90S Micro Servo - https://www.amazon.com/dp/B09BV5D7MD
