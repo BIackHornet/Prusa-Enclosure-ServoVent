@@ -33,6 +33,7 @@ type is being used, that variable will be used in the Start and End G-code. Base
 - Servo Tester (Optional: Assist in calibrating servo for script) - https://www.amazon.com/dp/B07FQNZHG4le
 - 3.5mm TRRS Jack - https://www.amazon.com/dp/B07L3P93ZD
 - 2.5mm to 3.5mm TRRS Cable - https://www.amazon.com/dp/B0B9RF28W3
+- 22 Gauge 4 Conductor Wire - https://www.amazon.com/dp/B00DPQMKBS
 
 ## 3D Printed Parts:
 - [Advanced Filtration System Adjustable Exhaust (v3) for the Original Prusa Enclosure by DaHouzKat](https://www.printables.com/model/964245-advanced-filtration-system-adjustable-exhaust-v3-f)
